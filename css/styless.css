@@ -1,0 +1,28 @@
+/* Estilo para el fondo de degradado azul */
+body {
+    background: linear-gradient(to bottom, #0074E4, #001F51); /* Cambia estos colores según tus preferencias */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+/* Estilo para los encabezados h1 */
+h1 {
+    font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
+    text-align: center;
+    font-size: 36px;
+}
+h5 {
+    font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-family: 'Georgia', serif; /* Cambia 'Georgia' por la fuente que desees */
+    text-align: justify;
+    font-size: 16px;
+}
