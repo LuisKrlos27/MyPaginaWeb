@@ -1,5 +1,5 @@
 /* Estilo para el fondo de degradado azul */
-body {
+.custom-body-principal {
     background: linear-gradient(to bottom, #0074E4, #001F51); /* Cambia estos colores según tus preferencias */
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,17 +13,79 @@ h1 {
     font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
     text-align: center;
     font-size: 36px;
-}
-h5 {
-    font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
-    text-align: center;
-    font-size: 28px;
+    color: white;
 }
 
-
-/* Estilo para los párrafos */
-p {
+.custom-card-body p {
     font-family: 'Georgia', serif; /* Cambia 'Georgia' por la fuente que desees */
     text-align: justify;
     font-size: 14px;
+}
+
+.custom-card-body{
+    color: black;
+    background-color: white;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 1000px;
+}
+
+.custom-card-body img{
+    width: 210px;
+    border-radius: 2%;
+}
+
+.custom-card-body h5{
+
+    font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
+    text-align: justify;
+    font-size: 28px;
+
+}
+
+.custom-line85{
+    text-align: center;
+}
+
+.custom-line85 img{
+    width: 30px; 
+    display: block; 
+    margin: 0 auto;
+}
+
+.custom-line85 h5{
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+}
+
+.custom-line85 p{
+
+    font-family: 'Georgia', serif; /* Cambia 'Georgia' por la fuente que desees */
+    text-align: justify;
+    font-size: 14px;
+    color: white;
+}
+
+.custom-line116{
+    text-align: center;
+}
+.custom-line116 img{
+    width: 30px; 
+    display: block; 
+    margin: 0 auto;
+}
+
+.custom-line116 h5{
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+}
+
+.custom-line116 p{
+
+    font-family: 'Georgia', serif; /* Cambia 'Georgia' por la fuente que desees */
+    text-align: justify;
+    font-size: 14px;
+    color: white;
 }
