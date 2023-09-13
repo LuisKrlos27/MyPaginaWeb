@@ -17,12 +17,13 @@ h1 {
 h5 {
     font-family: 'Times New Roman', serif; /* Cambia 'Times New Roman' por la fuente que desees */
     text-align: center;
-    font-size: 36px;
+    font-size: 28px;
 }
+
 
 /* Estilo para los párrafos */
 p {
     font-family: 'Georgia', serif; /* Cambia 'Georgia' por la fuente que desees */
     text-align: justify;
-    font-size: 16px;
+    font-size: 14px;
 }
