@@ -43,6 +43,20 @@ h1 {
 
 }
 
+.custom-card-body img{
+    width: 200px;
+    height: 200px;
+}
+.icons-container {
+    text-align: justify;
+}
+.custom-card-body img.icons {
+    width: 30px !important;
+    height: 30px; /* Mantener la proporción original */
+    margin: 5px;
+}
+
+
 .custom-line85{
     text-align: center;
 }
@@ -89,3 +103,4 @@ h1 {
     font-size: 14px;
     color: white;
 }
+
