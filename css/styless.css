@@ -45,7 +45,7 @@ h1 {
 
 .custom-card-body img{
     width: 200px;
-    height: 200px;
+    height: 250px;
 }
 .icons-container {
     text-align: justify;
@@ -104,3 +104,12 @@ h1 {
     color: white;
 }
 
+.img-constrainer img.foto {
+    width: 100%; /* Ocupar el 100% del ancho de la columna */
+    height: auto; /* Ajustar automáticamente la altura para mantener la proporción */
+    max-width: 384px; /* Establecer un máximo de 384px de ancho */
+    max-height: 703px; /* Establecer un máximo de 703px de alto */
+    display: block;
+    margin: 0 auto;
+  }
+  
