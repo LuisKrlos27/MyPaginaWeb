@@ -111,5 +111,23 @@ h1 {
     max-height: 703px; /* Establecer un máximo de 703px de alto */
     display: block;
     margin: 0 auto;
-  }
-  
+}
+
+.custom-card-contact{
+
+    color: black;
+    background-color: white;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 1000px;
+
+}
+
+.custom-card-contact h5{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    size: 20px;
+    
+
+}
